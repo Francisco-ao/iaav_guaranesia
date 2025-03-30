@@ -36,13 +36,14 @@
 <body>
     <div class="container">
         <h2>Igreja Apostólica Amor e Verdade</h2>
-        <a href="https://www.instagram.com/seuigreja" class="link" target="_blank">Instagram</a>
+        <a href="https://www.instagram.com/iaav_guaranesia/" class="link" target="_blank">Instagram</a>
         <a href="https://www.facebook.com/seuigreja" class="link" target="_blank">Facebook</a>
-        <a href="https://www.youtube.com/seuigreja" class="link" target="_blank">YouTube</a>
+        <a href="https://www.youtube.com/@IAAV-Guaranesia-MG" class="link" target="_blank">YouTube</a>
         <a href="https://wa.me/seunumerowhatsapp" class="link" target="_blank">WhatsApp</a>
-        <a href="https://gerarqrcodepix.com.br" class="link" target="_blank">Doação via Pix</a>
-        <a href="https://goo.gl/maps/seuendereco" class="link" target="_blank">Localização da Igreja</a>
-        <p><strong>Horários dos Cultos:</strong><br>Domingos - 10h e 19h<br>Quartas - 19h</p>
+        <a href="https://api.qrserver.com/v1/create-qr-code/?data=00020126360014br.gov.bcb.pix0114549517670002065204000053039865802BR5925549517670002065204000053039865802BR5925IGREJA_APOSTOLICA_AMOR_E_6010Guaranesia610937810-00062150511068258806756304562D&size=200x200" class="link" target="_blank">Contribuição via Pix</a>
+        <a href="https://www.google.com.br/maps/place/R.+Dr.+Ary+Monteiro+Dias,+527+-+Guaran%C3%A9sia,+MG,+37810-000/@-21.3128026,-46.793645,17z/data=!3m1!4b1!4m6!3m5!1s0x94b64d01fde5ae41:0x489942d59d3b55fa!8m2!3d-21.3128076!4d-46.7910701!16s%2Fg%2F11svplt1m6?hl=pt-BR&entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" class="link" target="_blank">Localização da Igreja</a>
+        <p><strong>Horários dos Cultos:</strong><br>Domingos - Culto da Família 19:30 até 21:00<br>Sábados - Culto de Louvor e Adoração 19:30 até 21:00<br>Quartas - 19h</p>
     </div>
 </body>
 </html>
+
