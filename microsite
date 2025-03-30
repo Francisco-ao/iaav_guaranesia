@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Igreja Apostólica Amor e Verdade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .link {
+            display: block;
+            padding: 10px;
+            margin: 10px 0;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .link:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Igreja Apostólica Amor e Verdade</h2>
+        <a href="https://www.instagram.com/seuigreja" class="link" target="_blank">Instagram</a>
+        <a href="https://www.facebook.com/seuigreja" class="link" target="_blank">Facebook</a>
+        <a href="https://www.youtube.com/seuigreja" class="link" target="_blank">YouTube</a>
+        <a href="https://wa.me/seunumerowhatsapp" class="link" target="_blank">WhatsApp</a>
+        <a href="https://gerarqrcodepix.com.br" class="link" target="_blank">Doação via Pix</a>
+        <a href="https://goo.gl/maps/seuendereco" class="link" target="_blank">Localização da Igreja</a>
+        <p><strong>Horários dos Cultos:</strong><br>Domingos - 10h e 19h<br>Quartas - 19h</p>
+    </div>
+</body>
+</html>
